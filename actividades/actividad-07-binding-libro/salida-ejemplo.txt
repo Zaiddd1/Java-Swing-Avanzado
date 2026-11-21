@@ -1,0 +1,4 @@
+Vista cargada desde el modelo: Cien anos de soledad | Gabriel Garcia Marquez | 1967 | 471 paginas
+Modelo actualizado: El Principito | Antoine de Saint-Exupery | 1943 | 96 paginas
+Dato no valido: El anio y las paginas deben ser numeros enteros.
+Vista cargada desde el modelo: El Principito | Antoine de Saint-Exupery | 1943 | 96 paginas

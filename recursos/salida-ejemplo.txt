@@ -1,0 +1,6 @@
+sample-3s.wav: 3.0 s
+campana.wav: 2.0 s
+explosion.wav: 1.5 s
+aplausos.wav: 2.5 s
+musica.wav: 12.8 s
+Archivos WAV creados en la carpeta actual.

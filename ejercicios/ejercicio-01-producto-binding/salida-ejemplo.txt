@@ -1,0 +1,3 @@
+Producto actualizado: Audifonos Bluetooth | S/ 89.9 | stock 40 | Audio
+Dato no valido: El precio debe ser un numero, por ejemplo 59.90
+Dato no valido: El precio no puede ser negativo.

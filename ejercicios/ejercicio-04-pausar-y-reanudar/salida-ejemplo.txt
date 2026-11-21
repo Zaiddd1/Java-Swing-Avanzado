@@ -1,0 +1,4 @@
+Pista cargada: ../../recursos/musica.wav (12.8 s)
+Reproducir: desde el inicio
+Pausar: en 3.3 s
+Reanudar: continua desde 3.3 s

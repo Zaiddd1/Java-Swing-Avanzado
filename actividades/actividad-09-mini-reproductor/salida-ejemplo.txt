@@ -1,0 +1,3 @@
+Audio cargado: ../../recursos/musica.wav (00:12)
+Reproduciendo
+Detenido
